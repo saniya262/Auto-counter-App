@@ -1,0 +1,26 @@
+.counter{
+    margin-left: 550px;
+    background-color: rgb(241, 246, 246);
+    border-radius: 10%;
+    height: 400px;
+    margin-bottom: 55px;
+
+}
+.counter h3{
+    text-align: center;
+padding-top:80px ;}
+
+.counter h2{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.btn_div{
+
+    margin-top: 90px;
+}
+.btn_1{
+  margin-top: 20px;
+  margin-left: 100px;
+  
+}
